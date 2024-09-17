@@ -17,7 +17,7 @@ import { FaFacebook ,FaInstagram,FaTwitter,FaLinkedin } from "react-icons/fa";
        <span className='font-bold  text-blue-500'><>&#60;</><span className=' text-white'>Karan</span>/<span className='text-white'>goyal</span><>&#62;</></span>
       </Typography>
       <div className="flex flex-wrap justify-center items-center gap-y-2 gap-x-8 pb-4 ">
-        <a href="https://www.google.com/"><FaFacebook className=" hover:text-blue-500 focus:text-blue-500  text-2xl" /></a>
+        <a href="https://www.facebook.com/people/Karan-Goyal/61565680451004/?mibextid=ZbWKwL"><FaFacebook className=" hover:text-blue-500 focus:text-blue-500  text-2xl" /></a>
         <a href="https://www.instagram.com/karangoyal.03"><FaInstagram className=" hover:text-blue-500 focus:text-blue-500 text-2xl"/></a>
         <a href="https://www.linkedin.com/in/karan-goyal-497428329/"><FaLinkedin className=" hover:text-blue-500 focus:text-blue-500 text-2xl"/></a>
       </div> 
